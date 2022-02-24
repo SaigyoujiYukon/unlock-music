@@ -22,11 +22,11 @@
 
 ### 支持的格式
 
-- [x] QQ 音乐 (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/.tkm)
-- [x] Moo 音乐格式 (.bkcmp3/.bkcflac/...)
-- [x] QQ 音乐 Tm 格式 (.tm0/.tm2/.tm3/.tm6)
-- [x] QQ 音乐新格式 (.mflac/.mgg/.mflac0/.mgg1/.mggl)
-- [x] <ruby>QQ 音乐海外版<rt>JOOX Music</rt></ruby> (.ofl_en)
+- [x] (由于 DMCA 已移除) ~~QQ 音乐 (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/.tkm)~~
+- [x] (由于 DMCA 已移除) ~~Moo 音乐格式 (.bkcmp3/.bkcflac/...)~~
+- [x] (由于 DMCA 已移除) ~~QQ 音乐 Tm 格式 (.tm0/.tm2/.tm3/.tm6)~~
+- [x] (由于 DMCA 已移除) ~~QQ 音乐新格式 (.mflac/.mgg/.mflac0/.mgg1/.mggl)~~
+- [x] JOOX Music (.ofl_en)
 - [x] 虾米音乐格式 (.xm)
 - [x] 酷我音乐格式 (.kwm)
 - [x] (由于 DMCA 已移除) ~~网易云音乐格式 (.ncm)~~
